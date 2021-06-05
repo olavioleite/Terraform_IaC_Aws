@@ -1,2 +1,2 @@
 ami: 01fc429821bf1f4b4
-subnet_id: 
+subnet_id: subnet-0e2c79a908908b6dd
