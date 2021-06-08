@@ -10,4 +10,4 @@ terraform init<br>
 terraform plan<br>
 terraform apply<br>
 
-terraform destroy <-- WARNING! 
+terraform destroy
